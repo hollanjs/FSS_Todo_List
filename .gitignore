@@ -1,0 +1,8 @@
+# Created by https://www.gitignore.io
+
+### Meteor ###
+.meteor/local
+.meteor/meteorite
+*.json
+*.sublime-project
+*.sublime-workspace

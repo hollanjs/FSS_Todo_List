@@ -1,0 +1,22 @@
+notes
+
+
+remove everything?
+meteor reset
+ or type 'Meteor.call('removeAll')' into the command line
+
+
+
+to bulk upload json:
+
+actual use
+#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#
+
+mongoimport -h localhost:3001 --db meteor --collection tasks --jsonArray --type json --file "C:\Users\Josh Hollandsworth\Desktop\todos\fss-7-21-15.json"
+
+#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#
+
+
+excel formatting - to copy and paste as headers
+
+sku project timing setlineup completecarartwork carartworktolicensing carartworkapproved carartworkupload decosamplereceived decosamplephoto decosampletolicensing decosampleapproved completepackagingartwork packagingartworktolicensing packagingartworkapproved packagingartworkupload
