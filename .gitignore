@@ -3,6 +3,9 @@
 ### Meteor ###
 .meteor/local
 .meteor/meteorite
+
+
+### Other ###
 *.json
 *.sublime-project
 *.sublime-workspace

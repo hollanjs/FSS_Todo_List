@@ -12,7 +12,7 @@ to bulk upload json:
 actual use
 #/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#
 
-mongoimport -h localhost:3001 --db meteor --collection tasks --jsonArray --type json --file "C:\Users\Josh Hollandsworth\Desktop\todos\fss-7-21-15.json"
+mongoimport -h localhost:3001 --db meteor --collection tasks --jsonArray --type json --file "C:\Users\Josh Hollandsworth\Desktop\todos\fss-7-27-15.json"
 
 #/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#
 
